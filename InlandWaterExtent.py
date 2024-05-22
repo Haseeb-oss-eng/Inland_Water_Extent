@@ -4,8 +4,6 @@ import geemap
 import matplotlib.pyplot as plt
 import pandas as pd
 import json
-from ipyleaflet import GeoJSON
-import requests
 
 #initialise the Geemap
 geemap.ee_initialize()
