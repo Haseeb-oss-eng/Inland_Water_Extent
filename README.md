@@ -1,4 +1,4 @@
-# SurfaceWaterExtent
+# Surface Water Extent
 Create function to extract the Surface Water Extent
 
 ## Datasets
@@ -21,25 +21,25 @@ will be used as input for function to extract Inland Water Extent
 **1. geometry_geoJson(file_path)**:
   This function returns the GeoJSON into ee object.
   
-  **file_path: Input the file of Geojson**
+    **file_path: Input the file of Geojson**
 
-**2.inland_water_extent(startDate, endDate, roi, filename)**:
+**2. inland_water_extent(startDate, endDate, roi, filename)**:
   This function returns Inland Water Extent Timeseries of given 
   Inland Water Body GeoJSON file.
-  **startDate: Enter the Start Date range in string format. (ex:'1984-03-16')**
   
-  **endDate: Enter the End Date range in string format. (ex:'2022-01-01')**
+    **startDate : Enter the Start Date range in string format. (ex:'1984-03-16')**
   
-   **roi: Input the output file from geometry_geoJson(file_path) function.**
+    **endDate : Enter the End Date range in string format. (ex:'2022-01-01')**
+  
+     **roi : Input the output file from geometry_geoJson(file_path) function.**
    
-   **filename: Give the name(user-defined) for naming output file for graph in jpg and Table in csv (ex:LakeMalawai.jpg,LakeMalawi.csv).**
+     **filename : Give the name(user-defined) for naming output file for graph in jpg and Table in csv (ex:LakeMalawai.jpg,LakeMalawi.csv).**
    
   
 ## Output
 After running the function in Jupyter Notebook and Google Colab
-Timeseries and Table displays
-then in new code editor enter **"m"** a map displays with Water Body of given
-GeoJSON.
+Timeseries and Table displays then, in new code editor enter 
+**"m"** a map displays with Water Body of given GeoJSON.
 
 ## References
 
