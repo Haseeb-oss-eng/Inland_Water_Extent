@@ -14,7 +14,7 @@ For Extracting the Inland Water Extent I have used:
 two functions: 
   1. **geometry_geoJson(file_path):** Converts a GeoJSON file to an Earth Engine (ee) object.
   
-  2.**inland_water_extent(startDate, endDate, roi, filename):** Extracts the surface water extent timeseries for the specified region and time period, and saves the results as a CSV file and a plot as a JPG file.
+  2. **inland_water_extent(startDate, endDate, roi, filename):** Extracts the surface water extent timeseries for the specified region and time period, and saves the results as a CSV file and a plot as a JPG file.
 
 ## Explanation
 **1. geometry_geoJson(file_path)**:
