@@ -44,5 +44,5 @@ Timeseries and Table displays then, in new code editor enter
 2. The results will be saved as a CSV file and a JPG file
 
 ## References
-1. Source Code: follow "Inland_Water_Extent.ipynb"
+1. Source Code: follow "Inland_Water_Extent.ipynb" 
 2. Dataset: **JRC_GSW1_4_MonthlyHistory** - https://developers.google.com/earth-engine/datasets/catalog/JRC_GSW1_4_MonthlyHistory
