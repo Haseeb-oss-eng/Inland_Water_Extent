@@ -43,7 +43,7 @@ Timeseries and Table displays then, in new code editor enter
 **"m"** a map displays with Water Body of given GeoJSON.
 
 1. A Timeseries plot will be displayed.
-2. The results will be saved as a CSV file and a JPG file
+2. The results will be saved as a CSV file and a JPG file, this files automatically stores on your local machine if it runs in local jupyter Notebook, In colab storeson content tab. 
 
 ## References
 1. Source Code: follow - Inland_Water_Extent_Monthly.ipynb
