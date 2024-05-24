@@ -12,7 +12,7 @@ For Extracting the Inland Water Extent I have used:
 
 **Step 2:** Copy and paste the provided code into your Python environment (Source Code: Inland_water_Extend_Monthly.ipynb,
 Inland_water_Extend_Monthly.ipynb,
-Sentinel2_Extend.ipynb).
+Sentinel2_Water_Extend.ipynb).
 
 **Step 3:** There is commented line as Call Function. There are
 two functions: 
