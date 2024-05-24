@@ -10,7 +10,9 @@ For Extracting the Inland Water Extent I have used:
 ## How to use this Script
 **Step 1:** Ensure the required libraries are installed in your IDE, Google Colab, or Jupyter Notebook.
 
-**Step 2:** Copy and paste the provided code into your Python environment (Source Code: SurfaceWaterExtend.ipynb).
+**Step 2:** Copy and paste the provided code into your Python environment (Source Code: Inland_water_Extend_Monthly.ipynb,
+Inland_water_Extend_Monthly.ipynb,
+Sentinel2_Extend.ipynb).
 
 **Step 3:** There is commented line as Call Function. There are
 two functions: 
