@@ -5,7 +5,7 @@ Create function to extract the Surface Water Extent
 For Extracting the Inland Water Extent I have used:
 1. **"JRC/GSW1_4/MonthlyHistory" - (1984-03-16 - 2022-01-01)**
 2. **"JRC/GSW1_4/YearlyHistory"  - (1984-03-16 – 2022-01-01)**
-3. **COPERNICUS/S2** - This file is Depricated instead, there is COPERNICUS/S2_Harmonized I used this for 'system:time_start' properties.
+3. **COPERNICUS/S2** - This file is removed instead, there is COPERNICUS/S2_Harmonized I used this for 'system:time_start' properties.(Though COPERNICUS/S2 its works on geemap)
 
 ## How to use this Script
 **Step 1:** Ensure the required libraries are installed in your IDE, Google Colab, or Jupyter Notebook.
