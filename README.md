@@ -3,7 +3,9 @@ Create function to extract the Surface Water Extent
 
 ## Datasets
 For Extracting the Inland Water Extent I have used:
-1. **"JRC/GSW1_4/MonthlyHistory" - (1984-03-16-2022-01-01)**
+1. **"JRC/GSW1_4/MonthlyHistory" - (1984-03-16 - 2022-01-01)**
+2. **"JRC/GSW1_4/YearlyHistory"  - (1984-03-16 – 2022-01-01)**
+3. **COPERNICUS/S2**
 
 ## How to use this Script
 **Step 1:** Ensure the required libraries are installed in your IDE, Google Colab, or Jupyter Notebook.
@@ -44,5 +46,7 @@ Timeseries and Table displays then, in new code editor enter
 2. The results will be saved as a CSV file and a JPG file
 
 ## References
-1. Source Code: follow - Inland_Water_Extent.ipynb 
-2. Dataset: **JRC_GSW1_4_MonthlyHistory** - https://developers.google.com/earth-engine/datasets/catalog/JRC_GSW1_4_MonthlyHistory
+1. Source Code: follow - Inland_Water_Extent_Monthly.ipynb
+2.  Inland_Water_Extent_Yearly.ipynb
+3.  Sentinel2_Water_Extent
+4. Dataset: **JRC_GSW1_4_MonthlyHistory** - https://developers.google.com/earth-engine/datasets/catalog/JRC_GSW1_4_MonthlyHistory
